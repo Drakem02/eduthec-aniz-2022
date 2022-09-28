@@ -1,1 +1,1 @@
-# eduthec-aniz-2022
+# edutech-aniz-2022
